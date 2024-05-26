@@ -2,7 +2,7 @@
 #include <vector>
 #include <list>
 #include <utility>
-#include "./libs/conio.h"
+#include <libs/conio.h>
 #define MAP_WIDTH 1000
 #define MAP_HEIGHT 1000
 #define MAP_Z_HEIGHT 500
