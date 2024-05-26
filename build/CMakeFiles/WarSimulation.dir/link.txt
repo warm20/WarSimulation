@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/WarSimulation.dir/home/warm/WarSimulation/src/main.cpp.o -o WarSimulation 
